@@ -1,1 +1,1 @@
-Hypothesis t test application for Population Sigma unknown & Hypothesised (Population) Mean known.
+One way Anova test. Upload the file based on data format provided for reference to get results.
